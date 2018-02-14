@@ -64,7 +64,7 @@ class App extends React.Component {
           <textarea rows="10" cols="45" ref="textarea"></textarea><br />
         </p>
         <p className="App-intro">
-          {msg} 111111
+          {msg} 111
         </p>
       </div>
     );
